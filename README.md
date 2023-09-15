@@ -17,3 +17,6 @@
 
 > [Part 2](https://github.com/ZairBulos/full-stack-open/tree/main/part2) <br/>
 > Communicating with server
+
+> [Part 3](https://github.com/ZairBulos/full-stack-open/tree/main/part3) <br/>
+> Programming a server with NodeJS and Express
