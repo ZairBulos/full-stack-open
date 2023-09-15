@@ -1,0 +1,34 @@
+{
+  "persons": [
+    {
+      "name": "Arto Hellas",
+      "number": "045-123456",
+      "id": 1
+    },
+    {
+      "name": "Martha Idalgo",
+      "number": "033-123453",
+      "id": 2
+    },
+    {
+      "name": "Bruce Wayne",
+      "number": "022-123345",
+      "id": 3
+    },
+    {
+      "name": "Martha Wayne",
+      "number": "026-123345",
+      "id": 5
+    },
+    {
+      "name": "Marco Polo",
+      "number": "001-123453",
+      "id": 6
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "number": "007-123456",
+      "id": 7
+    }
+  ]
+}

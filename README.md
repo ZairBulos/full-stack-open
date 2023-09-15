@@ -14,3 +14,6 @@
 
 > [Part 1](https://github.com/ZairBulos/full-stack-open/tree/main/part1) <br/>
 > Introduction to React
+
+> [Part 2](https://github.com/ZairBulos/full-stack-open/tree/main/part2) <br/>
+> Communicating with server
