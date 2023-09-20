@@ -29,3 +29,6 @@
 
 > [Part 6](https://github.com/ZairBulos/full-stack-open/tree/main/part6) <br/>
 > Advanced state management
+
+> [Part 7](https://github.com/ZairBulos/full-stack-open/tree/main/part7) <br/>
+> React router, custom hooks, styling app with CSS and webpack
