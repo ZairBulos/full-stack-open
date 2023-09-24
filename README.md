@@ -32,3 +32,6 @@
 
 > [Part 7](https://github.com/ZairBulos/full-stack-open/tree/main/part7) <br/>
 > React router, custom hooks, styling app with CSS and webpack
+
+> [Part 8](https://github.com/ZairBulos/full-stack-open/tree/main/part8) <br/>
+> GraphQL
