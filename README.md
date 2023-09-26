@@ -35,3 +35,6 @@
 
 > [Part 8](https://github.com/ZairBulos/full-stack-open/tree/main/part8) <br/>
 > GraphQL
+
+> [Part 9](https://github.com/ZairBulos/full-stack-open/tree/main/part9) <br/>
+> TypeScript
